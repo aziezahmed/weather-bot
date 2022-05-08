@@ -1,6 +1,6 @@
 # Copyright (c) Microsoft Corporation. All rights reserved.
 # Licensed under the MIT License.
 
-from .echo_bot import EchoBot
+from .weather_bot import WeatherBot
 
-__all__ = ["EchoBot"]
+__all__ = ["WeatherBot"]
